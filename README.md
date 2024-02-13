@@ -3,10 +3,13 @@
 
 
 ## About Me
-I'm a MERN stack developer...
+I'm a Data Analyst And a MERN stack developer...
 
 
 ## 🛠 Skills
+
+# Analysis 
+Microsoft Excel , SQL , Tableau , Python , Data Cleaning , Data Manipulation , Statistical Analysis
 
 # FrontEnd
 Javascript, HTML, CSS ,React js, Redux...
